@@ -23,7 +23,16 @@ namespace Registro_V
 					Console.WriteLine("2 - Dados do Veiculo e do Proprietario");
 					Console.WriteLine("3 - Finalizar Programa");
 					Console.Write("Qual quas operações deseja efetuar: ");
+				try
+				{
 					escolha = int.Parse(Console.ReadLine());
+				}
+				catch (Exception)
+				{
+					Console.WriteLine("Digite um Valor entre 1 e 3");
+
+				}
+					
 				if (escolha > 0 && escolha < 4)
 				{
 					switch (escolha)
