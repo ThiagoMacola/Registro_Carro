@@ -20,7 +20,7 @@ namespace Registro_V
 			do
 			{
 					Console.WriteLine("1 - Informe os dados do Usuario e do Veiculo");
-					Console.WriteLine("2 - Verificar os dados já cadastrados do Veiculo");
+					Console.WriteLine("2 - Dados do Veiculo e do Proprietario");
 					Console.WriteLine("3 - Finalizar Programa");
 					Console.Write("Qual quas operações deseja efetuar: ");
 					escolha = int.Parse(Console.ReadLine());
