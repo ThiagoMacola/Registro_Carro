@@ -69,7 +69,7 @@ namespace Registro_V
 			Console.Write("Marca do Veiculo: ");
 			s.Marca = Console.ReadLine();
 			Console.Write("Modelo do Veiculo: ");
-			s.Modelo = int.Parse(Console.ReadLine());
+			s.Modelo =Console.ReadLine();
 			Console.Write("Cor do Veiculo: ");
 			s.Cor = Console.ReadLine();
 			Console.Write("Ano do Veiculo: ");
