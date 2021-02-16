@@ -1,0 +1,7 @@
+C:\Users\Thiago\source\repos\Registro_V\Registro_V\bin\Debug\Registro_V.exe.config
+C:\Users\Thiago\source\repos\Registro_V\Registro_V\bin\Debug\Registro_V.exe
+C:\Users\Thiago\source\repos\Registro_V\Registro_V\bin\Debug\Registro_V.pdb
+C:\Users\Thiago\source\repos\Registro_V\Registro_V\obj\Debug\Registro_V.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Registro_V\Registro_V\obj\Debug\Registro_V.exe
+C:\Users\Thiago\source\repos\Registro_V\Registro_V\obj\Debug\Registro_V.pdb
+C:\Users\Thiago\source\repos\Registro_V\Registro_V\obj\Debug\Registro_V.csprojAssemblyReference.cache
