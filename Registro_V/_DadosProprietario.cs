@@ -9,7 +9,7 @@ namespace Registro_V
 	class _DadosProprietario
 	{
 
-		public float Cpf { get; set; }
+		public long Cpf { get; set; }
 		public string Nome { get; set; }
 		public string Endereço { get; set; }
 		public string DataNascimento { get; set; }

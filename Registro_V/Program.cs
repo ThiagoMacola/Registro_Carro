@@ -57,7 +57,7 @@ namespace Registro_V
 			Console.WriteLine();
 			Console.WriteLine("Dados Usuario:");
 			Console.Write("Cpf do Individuo: ");
-			p.Cpf = float.Parse(Console.ReadLine());
+			p.Cpf = long.Parse(Console.ReadLine());
 			Console.Write("Nome do Individuo: ");
 			p.Nome = Console.ReadLine();
 			Console.Write("Endereço do Individuo: ");
